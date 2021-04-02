@@ -8,7 +8,7 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-I used the GCP and in the Google Cloud Shell typed the commands to install a virtual machine instance. I created the MHN Admin and set up the firewall rules for that instance.
+I used GCP and in the Google Cloud Shell typed the commands to install a virtual machine instance. I created the MHN Admin and set up the firewall rules for that instance.
 
 <img src="mhn-admin.gif">
 
